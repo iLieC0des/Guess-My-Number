@@ -1,2 +1,2 @@
 # Guess-My-Number
-This is my first game I've coded using JavaScript.
+This is the first game I made (coded) using JavaScript, Html and CSS.
